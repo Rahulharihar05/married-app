@@ -1,0 +1,15 @@
+.card {  
+    margin-left: 100px;
+    display: block;
+    position: relative;
+    background:url("../assets/images/card.png");
+    opacity: 5.5;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    box-shadow: 0 10px 20px steelblue;
+}
+
+  
+  
+  
